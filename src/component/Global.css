@@ -1,0 +1,120 @@
+.global {
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background: linear-gradient(to right, rgba(0, 0, 255, 0.6), rgba(255, 255, 255, 0.4), rgba(238, 130, 238, 0.6));
+}
+.backedglobal{
+    font-size: 20px;
+    font-weight: 800;
+}
+.fifteen{
+    font-weight: 800;
+    font-style: italic;
+}
+.task {
+    background-image: linear-gradient(to right, blue, violet); /* Apply gradient as background image */
+    -webkit-background-clip: text; /* Clip the background to the text */
+    background-clip: text; /* Clip the background to the text */
+    color: transparent; /* Make the actual text transparent */
+}
+.changeglobal{
+    width: 70%;
+    font-size: 50px;
+}
+.input-container {
+    display: flex;
+    align-items: center;
+    width: 30%;
+  }
+  .globallogo{
+    font-size: 20px;
+  }
+  .buttoninput {
+    background-image: linear-gradient(to right, blue, violet);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    width: 100px;
+    font-size: 18px;
+    border-radius: 10%;
+    height: 30px;
+    cursor: pointer;
+}
+
+  .lefticon{
+    display: none;
+    cursor: pointer;
+  }
+  .buttoninput:hover .lefticon{
+    display: inline;
+    cursor: pointer;
+  } 
+  .buttoninput:hover .right{
+    display:none ;
+  }
+  .buttoninput:hover {
+    background-image: linear-gradient(to right, blue, violet);
+    color: white;
+    cursor: pointer;
+  }
+  .input {
+    flex-grow: 1;
+    border: 1px solid #ccc;
+    border-radius: 35%;
+height: 50px;
+display: flex;
+justify-content: end;
+align-items: center;
+    padding: 8px;
+    background-color: aliceblue;
+
+  }
+  
+  .input[contentEditable=true]:empty:before {
+    content: attr(placeholder);
+    color: black;
+  }
+  .buttonbelloinput{
+    display: none;
+  }
+  @media screen and (max-width: 1200px) {
+    .global{
+        height: 650px;
+    }
+.input-container{
+    width: 50%;
+}
+  }
+  @media screen and (max-width: 800px) {
+    .changeglobal{
+        font-size: 30px;
+    }
+    
+  }
+  @media screen and (max-width: 600px) {
+    .changeglobal{
+    font-size: 20px;
+    }
+    .buttonbelloinput{
+        display: block;
+        margin-top: 10px;
+    }
+    .buttonin{
+        display: none;
+    }
+    .input{
+        width: 100%;
+    }
+    .input-container{
+        
+        display: flex;
+        flex-direction: column;
+    }
+  }

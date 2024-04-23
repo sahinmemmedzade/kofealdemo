@@ -1,0 +1,295 @@
+.uzvlerimiz{
+   
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 900px;
+   
+}
+.uzvlerimiztop{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+    height:400px;
+    background-image: linear-gradient(to right, blue, violet);
+}
+.uzvlerimizveyaradici{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    margin-top: 100px;
+
+}
+.buttonuzvler{
+    width: 150px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+background-color: transparent;
+background-color: blueviolet;
+border: 1px solid white;
+}
+.uzvlerimizveyaradici>h3{
+    font-size: 30px;
+}
+.uzvlerimizp{
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    align-items: start;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.creators{
+  position: static;
+    height: max-content;
+    width: 90%;
+border-radius: 2%;
+ top: 0;
+ left: 0;
+}
+.creators {
+    /* Your styles for the creators section */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .search{
+    margin: 2% auto 0 auto;
+    border-radius: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 100px;
+    background-color: red;
+    margin-top: 3%;
+  }
+  .searchinput{
+    width: 80%;
+    height: 40px;
+    background-color: antiquewhite;
+    font-size: 25px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: black; /* Ensure text color is visible against background */
+
+  }
+  .creator-card {
+    /* Your styles for each creator card */
+    position: relative;
+    width: 23%;
+    margin-bottom: 20px;
+    z-index: 1;
+
+  }
+  /* uzvlerimiz.css */
+
+/* Add linear gradient text color to description */
+
+  /* Add any additional styling for other elements here */
+  /* uzvlerimiz.css */
+.creatordestek:hover {
+    color: blue;
+  }
+  
+  .creatordestek {
+    color: black;
+    cursor: pointer;
+  }
+  
+ .fatiktokuzv:hover{
+    color: blue;
+ }
+  .creator-card:hover{
+    margin-top: -10px;
+  }
+  .icon-container:hover .icon {
+    color: blue; /* Icon color on hover */
+  }
+ .creatordetailp {
+    background-image: linear-gradient(to right, blue, violet); /* Apply gradient as background image */
+    -webkit-background-clip: text; /* Clip the background to the text */
+    background-clip: text; /* Clip the background to the text */
+    color: transparent; /* Make the actual text transparent */
+}
+  .creator-image {
+    /* Your styles for the creator image */
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  
+  .creator-details {
+    /* Your styles for the details section */
+    border: 2px solid gray;
+
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    height: 200px;
+    text-align: center;
+    margin-top: 70px; /* Adjust as needed */
+  }
+  
+
+  .creator-details h4 {
+    /* Your styles for the creator name */
+    margin-bottom: 5px;
+  }
+  
+  .creator-details p {
+    /* Your styles for the description and destekci */
+    margin-bottom: 5px;
+  }
+  @media screen and (max-width: 990px) {
+    .uzvlerimizveyaradici{
+     
+      width: 50%;
+  
+  }
+  .buttonuzvler{
+      width: 180px;
+     
+  }
+  .uzvlerimizveyaradici>h3{
+      font-size: 30px;
+  }
+  .uzvlerimizp{
+      font-size: 18px;
+    
+  }
+    .creator-card {
+    width: 48%;
+    }
+    .creator-details{
+      height: 250px;
+    }
+    .creator-details>h4{
+      margin-top: 80px;
+    }
+    .creators{
+      position: relative;
+      width: 100%;
+      border-radius: 0;
+      left: 0;
+      top: 0px;
+    }
+    .uzvlerimiz{
+      margin-bottom: 0;
+    }
+  }
+  @media screen and (max-width: 769px){
+    .uzvlerimizveyaradici{
+     
+      width: 70%;
+  
+  }
+  .buttonuzvler{
+      width: 200px;
+     
+  }
+  .uzvlerimizveyaradici>h3{
+      font-size: 20px;
+  }
+  .uzvlerimizp{
+      font-size: 16px;
+    
+  }
+    .creator-card {
+      width: 80%;
+      }
+      .creator-details{
+        height: 280px;
+      }
+      .creator-details>h4{
+        margin-top: 120px;
+      }
+      .creators{
+        position: relative;
+        width: 100%;
+        border-radius: 0;
+        left: 0;
+        top: 0px;
+      }
+  }
+  @media screen and (max-width: 660px){
+    .creator-details{
+      height: 200px;
+    }
+    .creator-image {
+      width: 25%;
+    }
+    .creator-details>h4{
+      margin-top: 80px;
+    }
+  }
+  @media screen and (max-width: 500px){
+    .uzvlerimizveyaradici{
+     
+      width: 80%;
+  
+  }
+  .buttonuzvler{
+    width: 150px;
+   
+}
+  .uzvlerimizveyaradici>h3{
+      font-size: 25px;
+  }
+  .uzvlerimizp{
+      font-size: 14px;
+    
+  }
+    .creator-details{
+      height: 180px;
+    }
+    .creator-image {
+      width: 25%;
+    }
+    .creator-details>h4{
+      margin-top: 60px;
+    }
+    .creatordetailp{
+      font-size: 14px;
+    }
+    .creatordestek{
+      font-size: 14px;
+    }
+    .creator-image {
+      top: 5%;
+    }
+  }
+  @media screen and (max-width: 400px)
+  {
+    .uzvlerimizveyaradici{
+     
+      width: 100%;
+  
+  }
+  .buttonuzvler{
+    width: 120px;
+   
+}
+  .uzvlerimizveyaradici>h3{
+      font-size: 20px;
+  }
+  .uzvlerimizp{
+      font-size: 12px;
+    
+  } 
+    .creator-image {
+      top: 15%;
+      width: 30%;
+    }
+  }

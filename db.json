@@ -1,0 +1,265 @@
+{"creators": [
+    {
+      "id": "1",
+      "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+     
+      "name": "Vüsal Vəliyev",
+"description":"TikTok-da oyun yayınları açarağ tanınan biri.",
+"destekci":"119 Dəstəkçi",
+"icon":"CiGlobe"
+},
+    {
+        "id": "2",
+        "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+       
+        "name": "gagaonline",
+  "description":"Yayımcı",
+  "destekci":"20 Dəstəkçi",
+      "icon":"FaTiktok",
+      "icon2":"CiGlobe"
+  
+      },
+      {
+        "id": "3",
+        "image1": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+       
+        "name": "Toğrul Ələkbər",
+  "description":"İnsan inkişafçısı.",
+  "destekci":" 58 Dəstəkçi",
+  "icon":"CiGlobe"
+
+  
+      },
+      {
+          "id": "4",
+          "image1": "https://kofe.al/storage/images/users/65e4604aed94f.jpeg",
+         
+          "name": "Rehim Alxazov",
+    "description":"TikTokda yayimcilig edib Pubg Mobile Oynuyuram",
+    "destekci":"8 Dəstəkçi",
+    "icon":"FaTiktok",
+    "icon2":"CiGlobe"
+    
+        },
+        {
+            "id": "1",
+            "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+           
+            "name": "Vüsal Vəliyev",
+      "description":"TikTok-da oyun yayınları açarağ tanınan biri.",
+      "destekci":"119 Dəstəkçi",
+      "icon":"CiGlobe"
+          },
+          {
+              "id": "2",
+              "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+             
+              "name": "gagaonline",
+        "description":"Yayımcı",
+        "destekci":"20 Dəstəkçi",
+            "icon":"FaTiktok",
+            "icon2":"CiGlobe"
+        
+            },
+            {
+              "id": "3",
+              "image1": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+             
+              "name": "Toğrul Ələkbər",
+        "description":"İnsan inkişafçısı.",
+        "destekci":" 58 Dəstəkçi",
+        "icon":"CiGlobe"
+      
+        
+            },
+            {
+                "id": "4",
+                "image1": "https://kofe.al/storage/images/users/65e4604aed94f.jpeg",
+               
+                "name": "Rehim Alxazov",
+          "description":"TikTokda yayimcilig edib Pubg Mobile Oynuyuram",
+          "destekci":"8 Dəstəkçi",
+          "icon":"FaTiktok",
+          "icon2":"CiGlobe"
+          
+              }, {
+                "id": "1",
+                "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+               
+                "name": "Vüsal Vəliyev",
+          "description":"TikTok-da oyun yayınları açarağ tanınan biri.",
+          "destekci":"119 Dəstəkçi",
+          "icon":"CiGlobe"
+              },
+              {
+                  "id": "2",
+                  "image1": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+                 
+                  "name": "gagaonline",
+            "description":"Yayımcı",
+            "destekci":"20 Dəstəkçi",
+                "icon":"FaTiktok",
+                "icon2":"CiGlobe"
+            
+                },
+                {
+                  "id": "3",
+                  "image1": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+                 
+                  "name": "Toğrul Ələkbər",
+            "description":"İnsan inkişafçısı.",
+            "destekci":" 58 Dəstəkçi",
+            "icon":"CiGlobe"
+          
+            
+                },
+                {
+                    "id": "4",
+                    "image1": "https://kofe.al/storage/images/users/65e4604aed94f.jpeg",
+                   
+                    "name": "Rehim Alxazov",
+              "description":"TikTokda yayimcilig edib Pubg Mobile Oynuyuram",
+              "destekci":"8 Dəstəkçi",
+              "icon":"FaTiktok",
+              "icon2":"CiGlobe"
+            
+                  }
+  ],
+"blogs":[
+    {
+        "id":"1",
+        "image1": "https://kofe.al/storage/images/users_posts/1wtFgyIKxPvorJtbX9LwMvG2gCZMHASwFSXKBwt1.jpg",
+        "name": "Kassir Qızın Təbəssümü"
+       
+        },
+        {
+            "id":"2",
+            "image1": "https://kofe.al/storage/images/users_posts/ki8myVKIHvfJIFM0jyrwCBcMRFTuNMqy9oKdTXgO.jpg",
+            "name": "Təyyarənin Apardığı Yer"
+           
+            },
+            {
+                "id":"3",
+                "image1": "https://kofe.al/storage/images/users_posts/ax69iwr4r2mgvbCjmD3X5AIY2khndu6KYQafHbld.jpg",
+                "name": "Mənim adım SEİKO-dur."
+               
+                },
+                {
+                    "id":"4",
+                "image1": "https://kofe.al/storage/images/users_posts/bLgLutXAcx3fpI8zyKODg8aBamsSUeJ1hSaluijD.jpg",
+                "name": "Rəssam Aşının Ətri"
+                }
+],
+"blogsyazar":[
+    {
+        "id":1,
+        "img":"https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+        "name":"Bundan sonra daha effektiv yazacaqsan!",
+        "description":"Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu",
+        "yazarname":"Avaz Cafarov",
+        "yazarimg":"https://kofe.al/storage/images/users/660d16bccc08c.png",
+        "looks":3,
+        "date":"20.04.2024"
+    },
+    {    "id":2,
+        "img":"https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
+        "name":"“Uğur hekayəm”",
+        "description":"“Bir Fincan Çay”",
+        "yazarname":"Günel İsmayılova",
+        "yazarimg":"https://kofe.al/storage/images/users/6622cc5fe5473.jpeg",
+        "looks":26,
+        "date":"20.04.2024"
+    },
+    {   "id":3,
+        "img":"https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
+        "name":"“Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet”",
+        "description":"Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans",
+        "yazarname":"ECOM AZ",
+        "yazarimg":"https://kofe.al/storage/images/users/65eee58a3047d.png",
+        "looks":4,
+        "date":"19.04.2024"
+    },
+    {   "id":4,
+    "img":"https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
+    "name":"“Nəbi Xəzri",
+    "description":"Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq",
+    "yazarname":"Tofiq Vəliyev",
+    "yazarimg":"https://kofe.al/storage/images/users/66213004c6fca.jpeg",
+    "looks":4,
+    "date":"19.04.2024"
+},
+{
+    "id":1,
+    "img":"https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+    "name":"Bundan sonra daha effektiv yazacaqsan!",
+    "description":"Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu",
+    "yazarname":"Avaz Cafarov",
+    "yazarimg":"https://kofe.al/storage/images/users/660d16bccc08c.png",
+    "looks":3,
+    "date":"20.04.2024"
+},
+{    "id":2,
+    "img":"https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
+    "name":"“Uğur hekayəm”",
+    "description":"“Bir Fincan Çay”",
+    "yazarname":"Günel İsmayılova",
+    "yazarimg":"https://kofe.al/storage/images/users/6622cc5fe5473.jpeg",
+    "looks":26,
+    "date":"20.04.2024"
+},
+{   "id":3,
+    "img":"https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
+    "name":"“Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet”",
+    "description":"Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans",
+    "yazarname":"ECOM AZ",
+    "yazarimg":"https://kofe.al/storage/images/users/65eee58a3047d.png",
+    "looks":4,
+    "date":"19.04.2024"
+},
+{   "id":4,
+"img":"https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
+"name":"“Nəbi Xəzri",
+"description":"Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq",
+"yazarname":"Tofiq Vəliyev",
+"yazarimg":"https://kofe.al/storage/images/users/66213004c6fca.jpeg",
+"looks":4,
+"date":"19.04.2024"
+},    {
+    "id":1,
+    "img":"https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+    "name":"Bundan sonra daha effektiv yazacaqsan!",
+    "description":"Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu",
+    "yazarname":"Avaz Cafarov",
+    "yazarimg":"https://kofe.al/storage/images/users/660d16bccc08c.png",
+    "looks":3,
+    "date":"20.04.2024"
+},
+{    "id":2,
+    "img":"https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
+    "name":"“Uğur hekayəm”",
+    "description":"“Bir Fincan Çay”",
+    "yazarname":"Günel İsmayılova",
+    "yazarimg":"https://kofe.al/storage/images/users/6622cc5fe5473.jpeg",
+    "looks":26,
+    "date":"20.04.2024"
+},
+{   "id":3,
+    "img":"https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
+    "name":"“Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet”",
+    "description":"Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans",
+    "yazarname":"ECOM AZ",
+    "yazarimg":"https://kofe.al/storage/images/users/65eee58a3047d.png",
+    "looks":4,
+    "date":"19.04.2024"
+},
+{   "id":4,
+"img":"https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
+"name":"“Nəbi Xəzri",
+"description":"Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq",
+"yazarname":"Tofiq Vəliyev",
+"yazarimg":"https://kofe.al/storage/images/users/66213004c6fca.jpeg",
+"looks":4,
+"date":"19.04.2024"
+}
+ 
+]}

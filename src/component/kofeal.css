@@ -1,0 +1,210 @@
+.kofeal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+}
+.kofealabunelik{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.kofealimg{
+    width: 50%;
+}
+.kofealimg>img{
+    height: 600px;
+}
+.kofealimgonlayn>img{
+    height: 600px;
+}
+.kofealimgonlayn{
+    width: 50%;
+}
+.kofealimgabunelik{
+    display: flex;
+    justify-content: start;
+    width: 50%;
+
+}
+.kofealimgabunelik>img{
+    height: 600px;
+   
+}
+.kofealdescriptiononlayn{
+    width: 50%;
+padding-left: 5%;
+box-sizing: border-box;
+    display: flex;
+align-items: start;
+justify-content: start;
+flex-direction:column;
+}
+.kofealdescription{
+    text-align: start;
+    width: 40%;
+    display: flex;
+justify-content: start;
+align-items: start;
+flex-direction:column;
+}
+.desktek{
+    width: 15%;
+    height: 30px;
+    display: flex;
+    background-color: lightskyblue;
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    border-radius: 30%;
+}
+.destekonlayn>p{
+    font-size: 15px;
+}
+.destekonlayn{
+    width: 25%;
+    height: 30px;
+    display: flex;
+    background-color: lightskyblue;
+    align-items: center;
+    justify-content: center;
+    color: blueviolet;
+    border-radius: 30%;
+}
+.kofealdescription > h3{
+    display: flex;
+
+    width: 100%;
+    font-size: 40px;
+}
+.kofealdescription > p{
+    width: 100%;
+    font-size: 18px;
+}
+.kofealdescriptiononlayn > h3{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    width: 100%;
+    font-size: 40px;
+}
+.kofealdescriptiononlayn > p{
+    width: 100%;
+    font-size: 18px;
+}
+.custom-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.custom-list li {
+    width: calc(48.33% - 20px);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+.kofealdescriptiononlayn>h6{
+    font-size: 16px;
+}
+.custom-list .icon-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: blueviolet; /* Daire rengini istediğiniz renge değiştirebilirsiniz */
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.correct-icon {
+    color: white;
+    font-size: 16px;
+}
+
+.correct-icon::after {
+    content: "✓";
+}
+
+.correct-icon::before {
+    content: " ";
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+@media screen and (max-width: 1100px) {
+    .kofeal{
+        flex-direction: column;
+        height: 1100px;
+     
+    }
+    .kofealdescription{
+        width: 90%;
+        margin-top: 20px;
+    }
+    .kofealimg{
+        width: 90%;
+display: flex;
+justify-content: start;
+    }
+    .kofealdescriptiononlayn{
+        width: 90%;
+        margin-top: 20px;
+    }
+    .kofealimgonlayn{
+        width: 90%;
+display: flex;
+justify-content: start;
+    }
+    .kofealimgabunelik{
+        width: 90%;
+display: flex;
+justify-content: start;
+    }
+}
+@media screen and (max-width: 700px) {
+    .kofealimgabunelik>img{
+        width: 80%;
+    }
+    .kofealdescriptiononlayn>h3{
+        font-size: 16px;
+    }
+.kofealimg>img{
+    width: 80%;
+}
+.kofealdescription>img{
+    width: 80%;
+}
+.kofealimgonlayn>img{
+    width: 80%;
+}
+.kofealdescriptiononlayn>img{
+    width: 80%;
+}
+}
+@media screen and (max-width: 600px) {
+    .kofeal{
+        flex-direction: column;
+        height: 1200px;
+     
+    }
+.desktek>p{
+    font-size: 10px;
+}
+.destekonlayn>p{
+    font-size: 8px;
+}
+.custom-list li {
+    width: 98%;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+}

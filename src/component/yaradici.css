@@ -1,0 +1,70 @@
+.Yaradici{
+    width: 100%;
+    height: 500px;
+    background-image: url('https://kofe.al/assets/images/splash/icons/map.png'), linear-gradient(to left, blue, violet);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.yaratbutton{
+    margin: 0 auto;
+    width: 180px;
+    border-radius: 4%;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    cursor: pointer;
+   
+}
+.yarath2>h2{
+    font-size: 50px;
+    color: white;
+}
+.Yaradici>p{
+    font-size: 20px;
+    color: white;
+}
+.yarath2{
+    width: 50%;
+}
+.leftyarat{
+    display: none;
+}
+.yaratbutton:hover .leftyarat{
+display: block;
+}
+.yaratbutton:hover{
+    background-color: blue;
+    color: white;
+}
+.yaratbutton:hover .rightyarat{
+    display: none;
+}
+@media screen and (max-width: 1200px) {
+    .yarath2>h2{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 780px) {
+    .yarath2>h2{
+        font-size: 25px;
+    }
+    .Yaradici>p{
+        font-size: 16px;
+    }
+    .Yaradici{
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .yarath2>h2{
+        font-size: 12px;
+    }
+    .Yaradici>p{
+        font-size: 10px;
+    }}
